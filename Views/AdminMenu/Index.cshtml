@@ -1,0 +1,58 @@
+@{
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}  
+
+@model IEnumerable<LaBonneAuberge.Models.Menu>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="gestion">
+    <h1 style="color: black;">Gestion de la carte :</h1>
+
+    <p>
+        <a class="link" asp-action="Create">Ajouter quelque chose à la carte</a>
+    </p>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nom
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Prix
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Img)
+                </td>
+                <td>
+                    <a class="link" asp-action="Edit" asp-route-id="@item.Id">Éditer</a> |
+                    <a class="link" asp-action="Delete" asp-route-id="@item.Id">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

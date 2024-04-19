@@ -1,0 +1,37 @@
+h2 {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+#btn_feedback_form {
+    background-color: rgb(107, 68, 5); 
+    border: 1px solid white;
+}
+
+#feedback {
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+#feedback p {
+    padding-left: 1%;
+    color: white;
+    text-shadow: 3px 3px 0px black;
+}
+
+.Pseudo_Notation {
+    border-radius: 10px 10px 0px 0px;
+    font-weight: bold;
+    background-image: url(/img/wood-horizontal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.avis_h2 { 
+    text-align: end;
+}
+

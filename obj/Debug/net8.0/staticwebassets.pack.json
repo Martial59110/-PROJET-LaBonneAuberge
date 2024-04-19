@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LaBonneAuberge.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LaBonneAuberge.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\Sound\\cow.wav",
+      "PackagePath": "staticwebassets\\Sound\\cow.wav"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\Sound\\fire.mp3",
+      "PackagePath": "staticwebassets\\Sound\\fire.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\Sound\\fire2.wav",
+      "PackagePath": "staticwebassets\\Sound\\fire2.wav"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\Sound\\fire3.wav",
+      "PackagePath": "staticwebassets\\Sound\\fire3.wav"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\Sound\\yeeha.wav",
+      "PackagePath": "staticwebassets\\Sound\\yeeha.wav"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\Video\\video.mp4",
+      "PackagePath": "staticwebassets\\Video\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\css\\Carte.css",
+      "PackagePath": "staticwebassets\\css\\Carte.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\css\\_Layout_HomePage.css",
+      "PackagePath": "staticwebassets\\css\\_Layout_HomePage.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\css\\avis.css",
+      "PackagePath": "staticwebassets\\css\\avis.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\css\\presentation.css",
+      "PackagePath": "staticwebassets\\css\\presentation.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\Bird.gif",
+      "PackagePath": "staticwebassets\\img\\Bird.gif"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\BorderWood-min.png",
+      "PackagePath": "staticwebassets\\img\\BorderWood-min.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\BorderWood.png",
+      "PackagePath": "staticwebassets\\img\\BorderWood.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\HomePage.jpg",
+      "PackagePath": "staticwebassets\\img\\HomePage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\LA_Bonne_Auberge_3.webp",
+      "PackagePath": "staticwebassets\\img\\LA_Bonne_Auberge_3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\La_bonne_aubergelogo_1.webp",
+      "PackagePath": "staticwebassets\\img\\La_bonne_aubergelogo_1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\Assiette Mixte grillée-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\Assiette Mixte grillée-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\WhiskySour.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\WhiskySour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\ailesdepoulet-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\ailesdepoulet-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\aperol spritz.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\aperol spritz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\assiettecharcut-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\assiettecharcut-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\brochette-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\brochette-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\cafemocha-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\cafemocha-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\capacciocapre-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\capacciocapre-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\capirinha.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\capirinha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\carpaccio-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\carpaccio-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\citronnade-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\citronnade-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\coco-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\coco-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\collins.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\collins.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\cosmopolitan.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\cosmopolitan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\cotedeporc-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\cotedeporc-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\creme-min.jpeg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\creme-min.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\cubralibre.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\cubralibre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\daiquiri.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\daiquiri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\eau-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\eau-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\filet mignon-min.jpeg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\filet mignon-min.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\highball.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\highball.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\limonade-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\limonade-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\maitai.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\maitai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\mangue-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\mangue-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\margarita.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\margarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\martini.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\martini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\martinifraise.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\martinifraise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\mocktail-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\mocktail-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\mojitoclassique.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\mojitoclassique.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\mojitomock-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\mojitomock-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\moscowmule.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\moscowmule.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\mousse-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\mousse-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\negroni.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\negroni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\oldfashion.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\oldfashion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\passion-min.jpeg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\passion-min.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\pechethe-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\pechethe-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\pina.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\pina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\raspberry mojito.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\raspberry mojito.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\smoothiebaie-min.jpeg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\smoothiebaie-min.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\steakaupoivre-min.jpeg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\steakaupoivre-min.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\ModalsMenu\\tiramitsu-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ModalsMenu\\tiramitsu-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\Plat1.jpg",
+      "PackagePath": "staticwebassets\\img\\Plat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\Plat2.jpg",
+      "PackagePath": "staticwebassets\\img\\Plat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\Plat3.jpg",
+      "PackagePath": "staticwebassets\\img\\Plat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\assiette.jpg",
+      "PackagePath": "staticwebassets\\img\\assiette.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\assiette.png",
+      "PackagePath": "staticwebassets\\img\\assiette.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\assiette2.jpg",
+      "PackagePath": "staticwebassets\\img\\assiette2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\assiette2.png",
+      "PackagePath": "staticwebassets\\img\\assiette2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\assistante.jpg",
+      "PackagePath": "staticwebassets\\img\\assistante.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\backDesert.jpg",
+      "PackagePath": "staticwebassets\\img\\backDesert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\balle.png",
+      "PackagePath": "staticwebassets\\img\\balle.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\barbecue.jpg",
+      "PackagePath": "staticwebassets\\img\\barbecue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\barbecue.webp",
+      "PackagePath": "staticwebassets\\img\\barbecue.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\border.png",
+      "PackagePath": "staticwebassets\\img\\border.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\bordersimple.png",
+      "PackagePath": "staticwebassets\\img\\bordersimple.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\bullet.gif",
+      "PackagePath": "staticwebassets\\img\\bullet.gif"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\cuir.webp",
+      "PackagePath": "staticwebassets\\img\\cuir.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\desert.jpg",
+      "PackagePath": "staticwebassets\\img\\desert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\gege.webp",
+      "PackagePath": "staticwebassets\\img\\gege.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\horse.gif",
+      "PackagePath": "staticwebassets\\img\\horse.gif"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\logo.webp",
+      "PackagePath": "staticwebassets\\img\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\mail.webp",
+      "PackagePath": "staticwebassets\\img\\mail.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\manager.jpg",
+      "PackagePath": "staticwebassets\\img\\manager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\papier.png",
+      "PackagePath": "staticwebassets\\img\\papier.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\presentation.jpg",
+      "PackagePath": "staticwebassets\\img\\presentation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\serveuse.jpg",
+      "PackagePath": "staticwebassets\\img\\serveuse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\shotgun.png",
+      "PackagePath": "staticwebassets\\img\\shotgun.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\sommelier.jpg",
+      "PackagePath": "staticwebassets\\img\\sommelier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\test.png",
+      "PackagePath": "staticwebassets\\img\\test.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\wood-horizontal.png",
+      "PackagePath": "staticwebassets\\img\\wood-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\img\\wood.png",
+      "PackagePath": "staticwebassets\\img\\wood.png"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dieu\\Desktop\\LaBonneAuberge\\LaBonneAuberge\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LaBonneAuberge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LaBonneAuberge.props",
+      "PackagePath": "build\\LaBonneAuberge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LaBonneAuberge.props",
+      "PackagePath": "buildMultiTargeting\\LaBonneAuberge.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LaBonneAuberge.props",
+      "PackagePath": "buildTransitive\\LaBonneAuberge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,59 @@
+@{
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}  
+
+@model IEnumerable<LaBonneAuberge.Models.FeedBackModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="gestion">
+    <h1 style="color: black;">Gestions des avis :</h1>
+
+    <p>
+        <a class="link" asp-action="Create">Créer un nouveau commentaire</a>
+    </p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Pseudo
+            </th>
+            <th>
+                Note
+            </th>
+            <th>
+                E-mail
+            </th>
+            <th>
+                Commentaire
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pseudo_FeedBack)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notation_FeedBack)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email_FeedBack)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Message_FeedBack)
+            </td>
+            <td>
+                <a class="link" asp-action="Edit" asp-route-id="@item.Id_FeedBack">Éditer</a> |
+                <a class="link" asp-action="Delete" asp-route-id="@item.Id_FeedBack">Supprimer</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
